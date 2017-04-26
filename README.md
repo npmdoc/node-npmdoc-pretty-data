@@ -1,4 +1,7 @@
-# api documentation for  [pretty-data (v0.40.0)](https://github.com/vkiryukhin/pretty-data#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-pretty-data.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-pretty-data) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-pretty-data.svg)](https://travis-ci.org/npmdoc/node-npmdoc-pretty-data)
+# npmdoc-pretty-data
+
+#### basic api documentation for  [pretty-data (v0.40.0)](https://github.com/vkiryukhin/pretty-data#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-pretty-data.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-pretty-data) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-pretty-data.svg)](https://travis-ci.org/npmdoc/node-npmdoc-pretty-data)
+
 #### plugin to pretty-print or minify XML, JSON, CSS and SQL files
 
 [![NPM](https://nodei.co/npm/pretty-data.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/pretty-data)
@@ -67,7 +70,8 @@
         "type": "git",
         "url": "git+ssh://git@github.com/vkiryukhin/pretty-data.git"
     },
-    "version": "0.40.0"
+    "version": "0.40.0",
+    "bin": {}
 }
 ```
 
